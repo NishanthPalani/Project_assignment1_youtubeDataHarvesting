@@ -14,7 +14,7 @@ Youtube_Data_Harvesting project is a project aiming to give users a friendly env
    6.  plotly 
 
 
-**Technologies used to build this project**
+## **Technologies used to build this project**
   1. Python - Coding
   2. MongoDB - Database for storing the data from YOUTUBE
   3. MYSQL - Database for storing the transformed data to perform data analysis
@@ -22,8 +22,7 @@ Youtube_Data_Harvesting project is a project aiming to give users a friendly env
   5. Plotly - to perform visualized charts for data analysis
 
 
-**Libraries used**
-
+## **Libraries used**
 Below libraires were used to perform the full project
 import google_auth_oauthlib.flow
 import googleapiclient.discovery
