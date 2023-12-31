@@ -64,7 +64,7 @@ The retrieved data from YOUTUBE API is stored in to a MongoDB database based on 
 The application allows users to migrate data from MongoDB to a SQL. Users can choose which channel's data to migrate and store. To ensure compatibility with a structured format, the data is cleaned and converted to a pandas library. Following data cleaning, the information is segregated into separate tables, including channels, playlists, videos, and comments.
 
 
-## *Data Analysis using Streeamlit and Plotly*
+## *Data Analysis using Streamlit and Plotly*
 
 This project provides data analysis and Visualize capabilities using Plotly and Streamlit. With the integrated Plotly library, users can select any of the 10 default questions available and do the analysis for the channels loaded with its appealing charts and graphs to gain insights from the collected data.
 
