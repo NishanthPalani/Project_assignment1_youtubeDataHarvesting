@@ -3,7 +3,7 @@
 
 ## *Introduction*
 
-Youtube_Data_Harvesting is a project aiming to give users a friendly environment to collect and store the data for analysis. Inrder to achieve a user friendly environment this was built on top of Streamlit Dashboard. At the backend these data will initially get stored to MongoDB and later migrated to SQL achieving analytics part for users on the data extracted.
+Youtube_Data_Harvesting is a project aiming to give users a friendly environment to collect and store the data for analysis. Inorder to achieve a user friendly environment this was built on top of Streamlit Dashboard. At the backend these data will initially get stored to MongoDB and later migrated to SQL achieving analytics part for users on the data extracted.
 
 
 ## *Table of Contents*
